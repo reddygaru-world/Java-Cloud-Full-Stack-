@@ -2,8 +2,6 @@
   "buildCommand": "npm run build",
   "installCommand": "npm install",
   "outputDirectory": "dist",
-  "framework": "vite",
-  "env": {
-    "GEMINI_API_KEY": "@GEMINI_API_KEY"
+  "framework": "vite"
   }
 }
