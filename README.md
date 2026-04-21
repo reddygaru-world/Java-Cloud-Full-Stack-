@@ -1,20 +1,105 @@
-<div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
-</div>
+# 🚀 QuizWise
 
-# Run and deploy your AI Studio app
+A modern quiz application built using React + Vite.
+Practice MCQs topic-wise with a clean and interactive UI.
 
-This contains everything you need to run your app locally.
+---
 
-View your app in AI Studio: https://ai.studio/apps/84839128-92ad-46ea-8101-5bfbeb5bc8eb
+## 📸 Preview
 
-## Run Locally
+(Add screenshots here later)
 
-**Prerequisites:**  Node.js
+---
 
+## ⚙️ Tech Stack
 
-1. Install dependencies:
-   `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
-   `npm run dev`
+* ⚛️ React
+* ⚡ Vite
+* 🎨 CSS
+
+---
+
+## 📦 Prerequisites
+
+* Node.js (v16 or above)
+* npm (comes with Node)
+
+---
+
+## 🛠️ Installation
+
+```bash
+git clone https://github.com/<your-username>/quizwise.git
+cd quizwise
+npm install
+```
+
+---
+
+## ▶️ Running the App
+
+```bash
+npm run dev
+```
+
+---
+
+## 🌐 Open in Browser
+
+[http://localhost:3000](http://localhost:3000)
+
+---
+
+## ⚠️ Port Issue Fix
+
+```bash
+npm run dev -- --port=5173
+```
+
+---
+
+## 🧪 Features
+
+* 📚 Topic-wise MCQs
+* ✅ Instant answer validation
+* 🎯 Score tracking
+* 🎨 Clean UI
+* ⚡ Fast performance (Vite)
+
+---
+
+## 📁 Project Structure
+
+```
+quizwise/
+│── src/
+│── public/
+│── index.html
+│── package.json
+```
+
+---
+
+## 🛑 Stop Server
+
+```bash
+Ctrl + C
+```
+
+---
+
+## 👨‍💻 Author
+
+* Developer
+
+---
+
+## ⭐ Contribute
+
+Feel free to fork and improve the project!
+
+---
+
+## 📄 License
+
+This project is for learning purposes.
